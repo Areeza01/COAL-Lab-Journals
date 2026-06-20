@@ -12,4 +12,4 @@ This repository contains my Computer Organization and Assembly Language (COAL) l
 - Assembly Language
 
 ## Author
-Areeza01
+Areeza Maryam
